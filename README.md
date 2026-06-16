@@ -5,12 +5,17 @@
 `ueRFTest` is a professional-grade Android application designed for RF engineering, network analysis, and automated field testing. It enables continuous background tracking of cellular signal metrics (LTE/5G), device throughput, and per-app traffic, alongside automated active testing modules for SMS, Voice, and Speed Tests.
 
 ---
+## Developer Informaation
 
-## Developer Contact
+**Version:** 2.09 
+**Developer:** xAPPS-Lab.ca  
+**Website:** [android.xapps-lab.com](https://android.xapps-lab.com)  
+**LinkedIn:** [jstaguan](https://www.linkedin.com/in/jstaguan)  
+**Privacy Policy:** [androidapps.xapps-lab.com/privacy](https://androidapps.xapps-lab.com/privacy)
 
-* **Studio**: [xAPPS-Lab.ca](https://androidapps.xapps-lab.com)
-* **Current Release: v2.09**
-* **Lead Developer**: [jstaguan on LinkedIn](https://www.linkedin.com/in/jstaguan)
+### APP Status: Under Internal Testing
+
+**Google Play (Internal Testing): ** drop us your Gmail at android.xappslab@gmail.com & get the latest release.
 
 ---
 

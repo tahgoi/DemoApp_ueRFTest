@@ -8,7 +8,8 @@
 
 ## Developer Contact
 
-* **Studio**: [xAPPS-Lab.ca](https://androidapps.xapps-lab.com)**. &nbsp;|&nbsp; **Current Release: v2.09**
+* **Studio**: [xAPPS-Lab.ca](https://androidapps.xapps-lab.com)
+* **Current Release: v2.09**
 * **Lead Developer**: [jstaguan on LinkedIn](https://www.linkedin.com/in/jstaguan)
 
 ---
@@ -178,9 +179,8 @@ To execute properly, the application requires the user to manually grant the fol
 ## Disclaimer & Legal Notice
 
 This application contains code that interfaces with third-party testing servers, including:
-1. **Ookla Speedtest**: Subject to [Ookla's terms of service and licensing](https://www.speedtest.net/about/terms). The Speedtest CLI binary is dynamically loaded at runtime from official sources.
-2. **Netflix Fast.com**: Connects to Fast.com servers for content delivery performance checks.
-3. **Cloudflare Speedtest**: Performs API/CDN calls to Cloudflare's public test infrastructure.
+1. **Cloudflare Speedtest**: Performs API/CDN calls to Cloudflare's public test infrastructure.
+2. **iPerfr Speedtest**: Performs TCP/UDP calls to Private test infrastructure.
 
 **Terms of Use:** 
 * These integrations are provided for network diagnostics, testing, and academic evaluation purposes only. 

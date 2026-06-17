@@ -180,6 +180,13 @@ To execute properly, the application requires the user to manually grant the fol
 
 
 ---
+### V2.09 - Release Notes
+- Initial Release
+
+## Known Issues to Fix:
+1. iPerf3 Test UDP / TCP UL & DL
+2. NR Info - Masked by OEM for non-rooted devices
+3. Progress Label Format
 
 ## Disclaimer & Legal Notice
 

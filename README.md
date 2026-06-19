@@ -5,9 +5,9 @@
 `ueRFTest` is a professional-grade Android application designed for RF engineering, network analysis, and automated field testing. It enables continuous background tracking of cellular signal metrics (LTE/5G), device throughput, and per-app traffic, alongside automated active testing modules for SMS, Voice, and Speed Tests.
 
 ---
-## Developer Informaation
+## Developer Information
 
-**Version:** 2.09 
+**Version:** 2.13 
 **Developer:** xAPPS-Lab.ca  
 **Website:** [android.xapps-lab.com](https://android.xapps-lab.com)  
 **LinkedIn:** [jstaguan](https://www.linkedin.com/in/jstaguan)  
@@ -16,6 +16,11 @@
 ### APP Status: Under Internal Testing
 
 **Google Play (Internal Testing): ** drop us your Gmail at android.xappslab@gmail.com & get the latest release.
+
+| |
+|:---:|
+| ![Deployment](screenshots/00_Deployment.png) |
+| Google Play internal testing track |
 
 ---
 
@@ -151,11 +156,13 @@ To execute properly, the application requires the user to manually grant the fol
 | Schedule a new automated test run | Test schedule time and repeat configuration | Active scheduled tests list |
 | ![Scheduled Detail](screenshots/03_Tasks_04_Scheduled.png) | ![Running 1](screenshots/03_Tasks_05_ScheduledTestRunning.png) | ![Running 2](screenshots/03_Tasks_06_ScheduledTestRunning.png) |
 | Scheduled test detail and status | Scheduled test executing in background | Live results during scheduled test execution |
+| ![Running 3](screenshots/03_Tasks_07_ScheduledTestRunning.png) | | |
+| Scheduled test completion and results summary | | |
 
 ### Map Screen
 | | | |
 |:---:|:---:|:---:|
-| ![Map Overview](screenshots/03_Map_01.png) | ![Map Coverage](screenshots/04_Map_01.png) | ![Map Speed](screenshots/04_Map_02.png) |
+| ![Map Overview](screenshots/04_Map_01B.jpg) | ![Map Coverage](screenshots/04_Map_01.png) | ![Map Speed](screenshots/04_Map_02.png) |
 | Map screen with initial OSM base layer | Color-coded signal coverage overlay (RSRP) | Map with device speed KPI coloring |
 | ![Map Technology](screenshots/04_Map_03.png) | ![Map Legend](screenshots/04_Map_04.png) | |
 | Serving technology color plot (LTE / 5G NSA / 5G SA) | Full KPI legend panel (tap to switch overlay) | |
@@ -165,10 +172,10 @@ To execute properly, the application requires the user to manually grant the fol
 |:---:|:---:|:---:|
 | ![Analytics Filters](screenshots/05_Analytics_01.png) | ![Traffic Trend](screenshots/05_Analytics_02_Trend.png) | ![Signal Trend](screenshots/05_Analytics_03_Trend.png) |
 | Date range picker and aggregation selector (Sec/Min/Hour/Day) | Traffic volume trend chart (DL/UL) over selected range | RSRP and SINR level trend over selected time window |
-| ![Profile](screenshots/05_Analytics_04_Profile.png) | ![Session](screenshots/05_Analytics_05_UserSession.png) | ![CA Chart](screenshots/05_Analytics_06_CarrierAggregation.png) |
-| RF profile tab: metrics rings and RSRP scatter plot | User session payload summary by interface | Carrier aggregation band distribution chart |
-| ![Session Payload](screenshots/05_Analytics_06_SessionPayload.png) | | |
-| Session-level data volume breakdown | | |
+| ![Profile](screenshots/05_Analytics_04_Profile.jpg) | ![Profile Alt](screenshots/05_Analytics_04A_Profile.jpg) | ![Session](screenshots/05_Analytics_05_UserSession.png) |
+| RF profile tab: metrics rings and RSRP scatter plot | RF profile alternate view | User session payload summary by interface |
+| ![CA Chart](screenshots/05_Analytics_06_CarrierAggregation.png) | ![Session Payload](screenshots/05_Analytics_06_SessionPayload.png) | |
+| Carrier aggregation band distribution chart | Session-level data volume breakdown | |
 
 ### Settings Screen
 | | | |

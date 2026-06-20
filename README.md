@@ -20,7 +20,7 @@
 | |
 |:---:|
 | ![Deployment](screenshots/00_Deployment.png) |
-| Google Play internal testing track |
+| ueRFTest Architecture |
 
 ---
 
